@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "repo": "lucasaugustodev/mergepay-test",
+  "contributor": "lucasaugustodev",
+  "pr": {
+    "number": 1,
+    "title": "feat: add multiply and divide operations",
+    "url": "https://github.com/lucasaugustodev/mergepay-test/pull/1",
+    "merged_at": "2026-03-22T00:25:16Z"
+  },
+  "analysis": {
+    "type": "feature",
+    "files_changed": 7,
+    "additions": 72,
+    "deletions": 0,
+    "tests_added": 2,
+    "components": [
+      ".",
+      "src/core",
+      "src/utils",
+      "tests/divide.test.js",
+      "tests/multiply.test.js"
+    ],
+    "linked_issues": [
+      1
+    ]
+  },
+  "score": {
+    "auto": 39,
+    "final": 39,
+    "scored_by": null
+  },
+  "timestamp": "2026-03-22T00:25:18.375Z",
+  "hash": "b3b0ebceb98afd70e9cf94811f74d95dc584051e4b02409e1b5d65a2d447590b"
+}
